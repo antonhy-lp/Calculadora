@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="operation">0</string>
+    <string name="Titulo_prb" />
+</resources>
